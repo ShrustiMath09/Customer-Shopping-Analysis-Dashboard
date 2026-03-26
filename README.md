@@ -13,3 +13,11 @@ Built an interactive dashboard using cleaned data:
 * KPI metrics (Total Sales, Customers, Avg Purchase)
 * Category and seasonal analysis
 * Filters and navigation for detailed insights
+
+## 📸 Dashboard Preview
+
+### 📊 Page 1 - Overview Dashboard
+![Dashboard Page 1](dashboard1.png)
+
+### 📄 Page 2 - Detailed Analysis
+![Dashboard Page 2](dashboard2.png)
